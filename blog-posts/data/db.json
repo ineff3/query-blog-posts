@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Beautiful Landscape",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "img": "https://i.insider.com/5c9e74a6ffcb2755813c5777?width=700"
+    },
+    {
+      "id": "2",
+      "title": "Delicious Recipes",
+      "body": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "img": "https://www.moneybeach.co.uk/wp-content/uploads/2020/11/Rapper-Lamborghini-Aventador-1024x747.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Tech Innovations",
+      "body": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "img": "https://d2hucwwplm5rxi.cloudfront.net/wp-content/uploads/2021/11/03133224/American-car-brands-body-b-031120210630-1024x640.jpg"
+    },
+    {
+      "id": "8",
+      "title": "NEw Car",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod commodi quia repudiandae fuga ullam aut autem? Accusamus.",
+      "img": "https://hips.hearstapps.com/hmg-prod/images/pininfarina-battista-2020-1600-0c-1574803128.jpg"
+    },
+    {
+      "id": "9",
+      "title": "a",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod commodi quia repudiandae fuga ullam aut autem? Accusamus.",
+      "img": "https://oracleoftime.com/wp-content/uploads/2017/08/McLaren-720S.jpg"
+    }
+  ]
+}
